@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # afd-vote-share-2025
  This project analyzes how socio-economic and demographic factors influence the rise of the AfD, a right-wing party in Germany, using descriptive statistics and confidence interval tree models from the R package PrinDT.
 =======
@@ -575,10 +574,6 @@ East.Finally, a comparison of the models’ performance shows that
 whereas `PrInDTRstruc` offered greater explanatory insight at the cost
 of predictive accuracy.
 
-*Most of this report was prepared collaboratively by **Mohaiminul
-Islam** and **Md Emon Parvez**, with the `PrInDTreg` model developed
-solely by **Md Emon Parvez** and the `PrInDTRstruc` model developed
-solely by **Mohaiminul Islam**.*
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
