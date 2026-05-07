@@ -1,9 +1,9 @@
-=======
-Determinants of AfD Vote Share in the 2025 German Federal Election: A
-Structural Analysis Using PrInDTreg and PrInDTRstruc
-================
-Mohaiminul Islam
-2025-10-11
+# Determinants of AfD Vote Share: 2025 German Federal Election
+## A Structural Analysis Using `PrInDTreg` and `PrInDTRstruc`
+
+**Author:** Mohaiminul Islam  
+**Date:** 2025-10-11  
+**Faculty:** Statistics, TU Dortmund University
 
 - [1 load data and library](#1-load-data-and-library)
 - [2 Tools and methodology](#2-tools-and-methodology)
